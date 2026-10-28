@@ -1,176 +1,103 @@
-
-<!-- ========== ANIMATED HEADER ========== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rishu%20Singh&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=17&animation=twinkling" alt="Rishu Singh animated header"/>
+<img src="./assets/header.svg" alt="Data Science profile banner" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Python+%7C+Data+Analysis+%7C+ML;Building+Real-World+ML+Applications" alt="Animated typing introduction"/>
-</a>
+<br/>
 
-<p>
-  <a href="https://github.com/rishusingh1257">
-    <img src="https://img.shields.io/badge/GitHub-rishusingh1257-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/singh-rishu">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=111111&style=for-the-badge)
 
 </div>
 
 ---
 
-<!-- ========== ABOUT ME ========== -->
-## 👨‍💻 About Me
+## ~$ whoami
 
-```python
-class DataScientist:
-    def __init__(self):
-        self.name = "Rishu Singh"
-        self.education = "Final-Year BCA Student"
-        self.interests = [
-            "Data Science",
-            "Machine Learning",
-            "Data Analysis"
-        ]
-        self.languages = ["Python", "SQL"]
-        self.current_focus = "Building ML Projects"
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-
-me = DataScientist()
-me.say_hi()
+```yaml
+name:      YOUR NAME
+role:      Data Science · Machine Learning
+focus:     [e.g. predictive modeling, NLP, recommender systems]
+stack:     Python · SQL · scikit-learn · PyTorch · Pandas
+mindset:   Clean data → Honest evaluation → Deployed model
+status:    Open to remote data / ML roles
 ```
 
-- 🎓 Final-year BCA student aspiring to build a career in Data Science.
-- 📊 Interested in exploratory data analysis, statistics, and data visualization.
-- 🤖 Developing machine learning models and end-to-end prediction applications.
-- 🚀 Exploring model deployment with FastAPI and web technologies.
-- 📚 Always learning, experimenting, and improving through projects.
-
 ---
 
-<!-- ========== TECH STACK ========== -->
-## 🛠️ Tech Stack & Tools
-
-### Programming Language
-<p>
-  <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
-</p>
-
-### Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-### Development & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,html,css,js,git,github,vscode" alt="Development tools"/>
-</p>
-
----
-
-<!-- ========== FEATURED PROJECTS ========== -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏦 Loan Approval & Risk Prediction
-
-An ML application for predicting loan approval outcomes using financial and credit-related features.
-
-**Tech:** Python · Scikit-learn · FastAPI
-
-[📂 Repository](https://github.com/rishusingh1257/Loan-Approval-Prediction)
-
-[🌐 Live Demo](https://loan-approval-prediction-1-1dpo.onrender.com)
-
-</td>
-<td width="50%">
-
-### 🧠 Mental Health Score Prediction
-
-An end-to-end prediction application with a machine learning model, FastAPI backend, and web interface.
-
-**Tech:** Python · Pandas · Scikit-learn · FastAPI
-
-[📂 Repository](https://github.com/rishusingh1257/Mental-Health-Score-Predction)
-
-[🌐 Live Demo](https://mental-health-score-predction-1.onrender.com)
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🏠 NYC Room Type Prediction
-
-A machine learning web application that predicts room types using New York City Airbnb listing data.
-
-**Tech:** Python · Pandas · Scikit-learn · FastAPI
-
-[📂 Repository](https://github.com/rishusingh1257/NYC-Room-Type-Prediction)
-
-[🌐 Live Demo](https://nyc-room-type-prediction-1-uuwt.onrender.com)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ========== GITHUB STATISTICS ========== -->
-## 📊 GitHub Analytics
+## Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishusingh1257&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusingh1257&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=rishusingh1257&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-111111?style=flat-square&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ========== CONTRIBUTION SNAKE ========== -->
-## 🐍 Watch My Contributions
+## Featured Projects
+
+| Project | What it does | Result | Stack |
+|---|---|---|---|
+| [**Project One**](https://github.com/YOUR_USERNAME/PROJECT_ONE) | One-line problem statement | e.g. 91% F1 on held-out test set | Python · scikit-learn |
+| [**Project Two**](https://github.com/YOUR_USERNAME/PROJECT_TWO) | One-line problem statement | e.g. cut forecast error by 18% vs baseline | Python · PyTorch |
+| [**Project Three**](https://github.com/YOUR_USERNAME/PROJECT_THREE) | One-line problem statement | e.g. live demo, 500+ users | Streamlit · FastAPI |
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/rishusingh1257/rishusingh1257/output/github-snake.svg"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=D0D0D0&icon_color=FFFFFF&border_color=333333&rank_icon=github" alt="GitHub stats"/>
+<img height="180" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=777777&stroke=333333&border=333333" alt="GitHub streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&radius=8&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%"/>
 
 </div>
 
 ---
 
-<!-- ========== CONNECT ========== -->
-## 🤝 Let's Connect
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" width="100%"/>
+</picture>
+</div>
+
+---
+
+## Currently
+
+```text
++ Building:   [project you're working on now]
++ Learning:   [topic, e.g. MLOps / model deployment]
++ Reading:    [paper or book]
++ Looking:    remote data science / ML roles
+```
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/singh-rishu">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/rishusingh1257">
-<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-**"Turning data into insights, and insights into impact."** 🚀
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="Animated footer"/>
+```bash
+$ echo "Data is only useful once it changes a decision."
+```
 
 </div>
