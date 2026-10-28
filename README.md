@@ -219,17 +219,32 @@ Continuously developing practical projects in data analytics, machine learning, 
 
 ---
 
+
+---
+
 ## `> CONNECT WITH ME`
 
 <div align="center">
 
-<a href="https://github.com/rishusingh1257">GitHub</a> •
-<a href="https://www.linkedin.com/in/singh-rishu">LinkedIn</a>
+<a href="https://github.com/rishusingh1257">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/singh-rishu">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-<br/>
+<br/><br/>
 
-**"Learning every day. Building with data. Improving with every commit."**
+<a href="https://github.com/rishusingh1257">
+  <img src="https://img.shields.io/badge/Follow%20My%20Journey-FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Follow on GitHub" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:303030,100:000000&height=100&section=footer" width="100%" />
+<br/><br/>
+
+**Let's connect, collaborate, and build something meaningful.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="60%" />
 
 </div>
+
