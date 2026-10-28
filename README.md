@@ -1,27 +1,9 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=RISHU%20SINGH&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20SCIENTIST%20%7C%20MACHINE%20LEARNING&descAlignY=62&descSize=16&descColor=AAAAAA" width="100%" />
-
-</div>
-
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:202020,100:000000&height=180&section=header&text=RISHU%20SINGH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descSize=16&descAlignY=60&descColor=CCCCCC" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+Data+Analytics;Building+ML+Projects+That+Solve+Problems;Turning+Data+Into+Meaningful+Insights" alt="Typing animation" />
-
-<br/>
-
-<a href="https://github.com/rishusingh1257">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/singh-rishu">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=RISHU+SINGH" alt="RISHU SINGH" />
+  </a>
 </div>
 
 ---
