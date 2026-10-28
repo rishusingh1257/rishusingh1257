@@ -1,4 +1,10 @@
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=RISHU%20SINGH&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20SCIENTIST%20%7C%20MACHINE%20LEARNING&descAlignY=62&descSize=16&descColor=AAAAAA" width="100%" />
+
+</div>
+
 <!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
 
 <div align="center">
