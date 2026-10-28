@@ -15,15 +15,20 @@
 
 <!-- SOCIAL MEDIA LOGOS -->
 
-<a href="https://github.com/rishusingh1257">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.linkedin.com/in/singh-rishu">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<br/><br/>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/rishusingh1257">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.linkedin.com/in/singh-rishu">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=808080&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+Data+Analytics;Turning+Data+Into+Insights" alt="Typing animation" />
 
