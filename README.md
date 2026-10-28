@@ -8,6 +8,32 @@
 
 ---
 
+
+<!-- ANIMATED NAME BANNER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=RISHU%20SINGH&fontSize=60&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING&descAlignY=62&descSize=16&descColor=AAAAAA" width="100%" />
+
+<!-- SOCIAL MEDIA LOGOS -->
+
+<a href="https://github.com/rishusingh1257">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/singh-rishu">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=808080&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+Data+Analytics;Turning+Data+Into+Insights" alt="Typing animation" />
+
+</div>
+
+---
+
+
 ## `> ABOUT ME`
 
 ```python
@@ -218,37 +244,3 @@ Continuously developing practical projects in data analytics, machine learning, 
 </div>
 
 ---
-
-
----
-
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/rishusingh1257" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/singh-rishu" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/rishusingh1257">
-  <img src="https://komarev.com/ghpvc/?username=rishusingh1257&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
-</a>
-
-<br/><br/>
-
-**💬 Open to Data Science Opportunities, Collaboration & Learning**
-
-</div>
-
----
-
-
