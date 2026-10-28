@@ -226,15 +226,19 @@ Continuously developing practical projects in data analytics, machine learning, 
 
 ---
 
+
+---
+
 ## `> CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusingh1257&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub Contribution Activity Graph" />
+<img src="https://raw.githubusercontent.com/rishusingh1257/rishusingh1257/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Animation" />
 
 </div>
 
 ---
+
 
 
 ## `> CONTRIBUTION SNAKE`
