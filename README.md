@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=RISHU%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0SINGH" alt="RISHU SINGH" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=RISHU%C2%A0%C2%A0%C2%A0%C2%SINGH" alt="RISHU SINGH" />
   </a>
 </div>
 
