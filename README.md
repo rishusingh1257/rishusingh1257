@@ -49,23 +49,88 @@ me = DataScienceEnthusiast()
 
 ---
 
-## `> TECH STACK`
+
+## `> TECH STACK & TOOLS`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Technical skills" />
+### `LANGUAGES & WEB DEVELOPMENT`
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript&theme=dark" alt="Python HTML CSS JavaScript" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+
+---
+
+### `DATA SCIENCE & ANALYTICS`
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" alt="Data science tools" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Seaborn-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-000000?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/EDA-000000?style=flat-square&logo=python&logoColor=white" />
+
+---
+
+### `MACHINE LEARNING`
+
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Regression-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Classification-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperparameter%20Tuning-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+---
+
+### `BACKEND & API DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white" />
+<img src="https://img.shields.io/badge/Joblib-000000?style=for-the-badge&logo=python&logoColor=white" />
+
+---
+
+### `TOOLS & ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,anaconda&theme=dark" alt="Development tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-000000?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white" />
+
+---
+
+### `DEPLOYMENT & WEB TECHNOLOGIES`
+
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20Integration-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JS-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Responsive%20UI-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
 </div>
+
 
 ---
 
