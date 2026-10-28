@@ -222,29 +222,33 @@ Continuously developing practical projects in data analytics, machine learning, 
 
 ---
 
-## `> CONNECT WITH ME`
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/rishusingh1257">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://github.com/rishusingh1257" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/singh-rishu">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/singh-rishu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/rishusingh1257">
-  <img src="https://img.shields.io/badge/Follow%20My%20Journey-FFFFFF?style=flat-square&logo=github&logoColor=000000" alt="Follow on GitHub" />
+  <img src="https://komarev.com/ghpvc/?username=rishusingh1257&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square" alt="Profile views" />
 </a>
 
 <br/><br/>
 
-**Let's connect, collaborate, and build something meaningful.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="60%" />
+**💬 Open to Data Science Opportunities, Collaboration & Learning**
 
 </div>
+
+---
+
 
