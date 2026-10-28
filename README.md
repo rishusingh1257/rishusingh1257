@@ -17,7 +17,7 @@
 ## ~$ whoami
 
 ```yaml
-name:      YOUR NAME
+name:      RISHU SINGH
 role:      Data Science · Machine Learning
 focus:     [e.g. predictive modeling, NLP, recommender systems]
 stack:     Python · SQL · scikit-learn · PyTorch · Pandas
