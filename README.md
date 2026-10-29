@@ -43,9 +43,9 @@
 class DataScienceEnthusiast:
     def __init__(self):
         self.name = "Rishu Singh"
-        self.education = "Final-Year BCA Student"
+        self.education = "Final-Year BCA(H) Student"
         self.focus = ["Data Science", "Machine Learning",
-                      "Data Analytics"]
+                      "Deep Learning"]
         self.languages = ["Python", "SQL"]
         self.libraries = [
             "NumPy", "Pandas", "Matplotlib",
