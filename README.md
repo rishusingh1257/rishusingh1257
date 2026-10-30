@@ -229,13 +229,6 @@ Continuously developing practical projects in data analytics, machine learning, 
 
 </div>
 
-
----
-
-
----
-
-
 ---
 
 ## `> CONTRIBUTION ACTIVITY`
