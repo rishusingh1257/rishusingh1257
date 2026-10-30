@@ -39,6 +39,8 @@
 
 ## `> ABOUT ME`
 
+I'm a BCA (Hons.) student and aspiring Data Scientist from India, passionate about transforming raw data into meaningful insights. I enjoy exploring data, building machine learning models, and solving real-world problems through Python and analytical thinking.
+
 ```python
 class DataScienceEnthusiast:
     def __init__(self):
