@@ -216,17 +216,19 @@ Continuously developing practical projects in data analytics, machine learning, 
 
 ## `> GITHUB STATISTICS`
 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishusingh1257&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=rishusingh1257&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github&cache_seconds=86400" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusingh1257&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusingh1257&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=rishusingh1257&theme=dark&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=rishusingh1257&theme=transparent&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
+
 
 ---
 
